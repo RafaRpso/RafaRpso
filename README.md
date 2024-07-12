@@ -14,5 +14,5 @@ In my free time, I enjoy playing chess, studying stem, and creating games, which
   
 <a href="https://www.linkedin.com/in/raafaelraposo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-My Email: rafaabolonhesa@gmail.com
+My Email: raposorafaeldev@gmail.com
 </div>
