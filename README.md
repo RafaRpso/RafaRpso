@@ -8,8 +8,6 @@ I'm a Brazilian Computer Science student currently learning Golang. I also know 
 
 Gamedev in <a href="https://faceleste.itch.io/"> Faceleste </a>, working on NMA++ 
 
-Trainee in TIVIT 
-
 In my free time, I enjoy playing chess, shogi, and programming. I also love literature.
 ### Find me here!
 </div>
