@@ -6,6 +6,10 @@ Hi! My name's Rafael
 
 I'm a Brazilian Computer Science student currently learning Golang. I also know Java, JavaScript/TypeScript, PHP, Python, and Bash. My current interests include AI, and I'm improving my math knowledge to start working on models.
 
+Gamedev in <a href="https://faceleste.itch.io/"> Faceleste </a>, working on NMA++ 
+
+Trainee in TIVIT 
+
 In my free time, I enjoy playing chess, shogi, and programming. I also love literature.
 ### Find me here!
 </div>
